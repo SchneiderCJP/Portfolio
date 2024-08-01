@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+  /*Creates a space between the sides of the screen*/
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
+  /*Sets the universal font for the entire website*/
+  font-family: "Tinos", Arial, Helvetica, sans-serif;
+}
+
+/*Makes it so that the scroll from section to section is smooth*/
+html {
+  scroll-behavior: smooth;
+}

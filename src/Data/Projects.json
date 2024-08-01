@@ -1,0 +1,60 @@
+[
+    {
+      "title": "The Score Keeper",
+      "imageSrc": "Projects/scorekeeperImage.PNG",
+      "description": "This program efficiently tracks data from multiple games played by a group, recording information from various rounds and matches in real-time, making it ideal for tournaments, setting goals for prizes, and identifying the best players.",
+      "skills": ["Java", "mySQL"],
+      "demo": "",
+      "source": "https://github.com/SchneiderCJP/TheScoreKeeper"
+    },
+    {
+      "title": "NSU Evader",
+      "imageSrc": "Projects/evaderImage.PNG",
+      "description": "A 2D game where the player controls a spaceship battling enemy ships and asteroids, aiming to reach the final wave without maxing out health or stars; customizable in the Unity editor to adjust enemy speed, types, wave count, and difficulty for desired playtime.",
+      "skills": ["Unity", "C#"],
+      "demo": "",
+      "source": "https://github.com/SchneiderCJP/NSUEvader"
+    },
+    {
+      "titnetlify loginle": "Ice Cream Sundae App",
+      "imageSrc": "Projects/icecreamImage.PNG",
+      "description": "An app that allows users to easily customize and order their ideal ice cream sundae, offering options for size, flavor, toppings, and fudge amount, with a continuous price update; it includes an order submission feature (for history tracking), an about page with company and app information, and a history page for tracking all submitted orders.",
+      "skills": ["Android Studio Flutter Dart"],
+      "demo": "",
+      "source": "https://github.com/SchneiderCJP/IceCreamSundaeMaker"
+    },
+    {
+      "title": "Personal Website",
+      "imageSrc": "Projects/websiteImage.PNG",
+      "description": "This website uses various HTML elements to showcase my interests and information, including my favorite websites, current course schedule, favorite foods, a favorite song, past performances, and a piece of my digital artwork created a few years ago.",
+      "skills": ["HTML"],
+      "demo": "",
+      "source": "https://github.com/SchneiderCJP/MyPersonalWebsite"
+    },
+    {
+      "title": "Coin Toss (Heads or Tails)",
+      "imageSrc": "Projects/cointossImage.PNG",
+      "description": "This website features ten coin images that can be determined as heads or tails with a 'toss' button. Each click randomly assigns heads or tails to the coins, counts the total heads and tails, and calculates their frequency percentage. Continuous tossing updates the frequency count and recalculates the percentages.",
+      "skills": ["HTML", "JavaScript"],
+      "demo": "",
+      "source": "https://github.com/SchneiderCJP/CoinToss"
+    },
+    {
+      "title": "Celebrity Flashcard Quiz",
+      "imageSrc": "Projects/celebrityImage.PNG",
+      "description": "This website tests users on recognizing 20 different celebrities by presenting randomized images and asking them to select the correct name. Users are informed if their selection is incorrect and can try again, or if correct, they are awarded a point. After each selection, users can proceed to the next question. The quiz can be retaken indefinitely until the user is completely familiar with all the celebrities.",
+      "skills": ["HTML", "JavaScript", "PHP", "mySQL"],
+      "demo": "",
+      "source": "https://github.com/SchneiderCJP/CelebrityFlashcardQuiz"
+    },
+    {
+      "title": "The Game Tracker",
+      "imageSrc": "Projects/trackerImage.PNG",
+      "description": "This Java program, designed as the backend for a graphical user interface, tracks a multi-player game by prompting users to input the game's name, player names, and number of rounds, then records each player's points per round, and finally calculates and announces the winner with the most points.",
+      "skills": ["Java"],
+      "demo": "",
+      "source": "https://github.com/SchneiderCJP/GameTracker"
+    }
+  ]
+
+  

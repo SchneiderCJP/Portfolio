@@ -1,0 +1,12 @@
+/*Universal Variables to use throughout the site*/
+
+:root {
+    /*Universal Colors*/
+    --color-bg: white;
+    --color-text: black;
+    --color-dark: black;
+    /*Universal fonts*/
+    --font-tinos: "Tinos", serif;
+    /*Universal shadow for the boxes*/
+    --backshadow: 0 0 4px 0 rgba(0,0,0,0.25);
+}

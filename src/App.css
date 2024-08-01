@@ -1,0 +1,12 @@
+@import "./variables.css";
+
+.App{
+  background-color: var(--color-bg);
+  width: 100%;
+  height: 100;
+  margin: 0;
+  /*Hides anything that flows off the page*/
+  overflow: hidden;
+  /*Creates a shadow behind the whole page, to make the page resemble a paper document.*/
+  box-shadow: var(--backshadow);
+}

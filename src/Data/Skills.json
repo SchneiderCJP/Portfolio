@@ -1,0 +1,63 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "Experience/htmlIcon.png",
+      "alt": "HTML Icon Image"
+    },
+    {
+      "title": "Javascript",
+      "imageSrc": "Experience/jsIcon.png",
+      "alt": "Javascript Icon Image"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "Experience/cssIcon.png",
+      "alt": "CSS Icon Image"
+    },
+    {
+      "title": "React",
+      "imageSrc": "Experience/reactIcon.png",
+      "alt": "React Icon Image"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "Experience/nodeJSIcon.png",
+      "alt": "Node Icon Image"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "Experience/javaIcon.png",
+      "alt": "Java Icon Image"
+    },
+    {
+      "title": "mySQL",
+      "imageSrc": "Experience/databaseIcon.png",
+      "alt": "Database Icon Image"
+    },
+    {
+      "title": "Wordpress",
+      "imageSrc": "Experience/wordpressIcon.png",
+      "alt": "Wordpress Icon Image"
+    },
+    {
+      "title": "Elementor",
+      "imageSrc": "Experience/elementorIcon.png",
+      "alt": "Elementor Icon Image"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "Experience/pythonIcon.png",
+      "alt": "Python Icon Image"
+    },
+    {
+      "title": "Unity",
+      "imageSrc": "Experience/unityIcon.png",
+      "alt": "Unity Icon Image"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "Experience/cIcon.png",
+      "alt": "C++ Icon Image"
+    }
+  ]
+  

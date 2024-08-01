@@ -1,0 +1,43 @@
+[
+    {
+      "role": "Junior SEO Developer",
+      "organization": "CI Web Group",
+      "startDate": "September 2023",
+      "endDate": "April 2024",
+      "experiences": [
+        "Improved client website SEO and Google rankings through comprehensive audits.",
+        "Led technical project teams to address and resolve issues in WordPress sites.",
+        "Edited source code, schema, and page design to improve site performance."
+    
+      ],
+      "imageSrc": "Experience/developerIcon.png",
+      "alt": "Developer Icon Image"
+    },
+    {
+      "role": "IT Support Specialist",
+      "organization": "Nova Southeastern University’s IT Department",
+      "startDate": "August 2022",
+      "endDate": "May 2023",
+      "experiences": [
+        "Optimized user experience by addressing and resolving technical queries from students and faculty.", 
+        "Collaborated with the IT team to enhance productivity and operational efficiency.",
+        "Provided technical support to ensure smooth operation and satisfaction."
+      ],
+      "imageSrc": "Experience/itIcon.png",
+      "alt": "Technical Support Aid Icon Image"
+    },
+    {
+      "role": "Technical Support Aid",
+      "organization": "Nova Southeastern University’s Tutoring & Testing Center",
+      "startDate": "January 2021",
+      "endDate": "May 2022",
+      "experiences": [
+        "Addressed technical issues and ensured seamless Zoom usage and device functionality.",
+        "Supported hybrid learning environments, enhancing classroom interactions and overall satisfaction.",
+        "Assisted with troubleshooting and resolving technical problems for students and faculty."
+      ],
+      "imageSrc": "Experience/roomSharkIcon.png",
+      "alt": "Technical Support Aid Icon Image"
+    }
+  ]
+  

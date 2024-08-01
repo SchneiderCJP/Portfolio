@@ -1,0 +1,9 @@
+@import "../../variables.css";
+
+.main {
+    display: block;
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+    background-color: var(--color-dark);
+}

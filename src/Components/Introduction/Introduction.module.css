@@ -1,0 +1,106 @@
+@import "../../variables.css";
+
+.container{
+    position: relative;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 100px;
+    z-index: 1;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 80px;
+}
+
+.seperator{
+    display: flex;
+    background: var(--color-text);
+    margin-bottom: 33px;
+    height: 3px;
+    width: 78%;
+    margin-bottom: 0;
+    justify-content: left;
+}
+
+.content {
+    margin-top: 33px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    color: var(--color-text);
+    z-index: 1;
+}
+
+.title{
+    font-size: 72px;
+    font-weight: 900;
+    margin-bottom: 0px;
+    font-family: var(--font-roboto);
+}
+
+.description {
+    margin-top: 23px;
+    font-size: 25px;
+    margin-bottom: 52px;
+}
+
+.contactButton{
+    text-decoration: none;
+    background-color: var(--color-primary);
+    color: var(--color-text);
+    border-radius: 0;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 17px 26px;
+    box-shadow: var(--backshadow);
+}
+
+.introductionImg{
+    position: absolute;
+    width: 100%;
+    padding-left: 10px;
+    padding-bottom: 60px;
+    z-index: 1;
+
+    /* Animation to make the image float up and down continuously*/
+    animation-name: floating;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+.imageContent{
+    padding-top: 40px;
+    position: relative;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 1;
+    padding-left: 20px;
+}
+
+/*Further defines the areas that the image will travel during its animation of floating.*/
+@keyframes floating {
+    0%{
+        transform: (0, 0px);
+    }
+    50% {
+        transform: translate(0,10px);
+    }
+    100%{
+        transform: translate(0,-0px);
+    }
+}
+
+/*When the screen width is smaller than normal size, styles are changed to improve appearance.*/
+@media screen and (max-width: 830px){
+    .container{
+        flex-direction: column-reverse;
+        text-align: center;
+        padding-bottom: 50px;
+    }
+
+    .content {
+        align-items: center;
+    }
+}
